@@ -4,7 +4,7 @@ This project features a modern login form that allows users to log in with their
 
 ## ⭐ Key Features ⭐
 
-- **Login Form**: Allows users to enter their email addresses and passwords.
+- **Login Form**: Allows users to enter their usernames and passwords.
 - **Modern Design**: Provides a clean and stylish user interface.
 
 ## ⭐ Video Demonstration ⭐
